@@ -1,6 +1,7 @@
 # Jira MCP Connector
 
 YouTube: AaiTech
+<img width="1900" height="815" alt="image" src="https://github.com/user-attachments/assets/ccb21ce2-ba57-49f9-9a9d-26e8112fb340" />
 
 ```cmd
 uv init mcp-server-demo
